@@ -74,4 +74,4 @@ count = 0
 for head in result:
     if head == "heads":
         count += 1
-print("There are", count, "heads")
+print("There are", count, "heads")          
